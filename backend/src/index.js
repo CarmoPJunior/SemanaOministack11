@@ -13,6 +13,7 @@ app.use(routes);
 app.listen(3333);
 
 
+
 //const bodyParser = require('body-parser');
 
 //CONFIGURA O BODY PARSER PARA REQUISIÇÕES 
